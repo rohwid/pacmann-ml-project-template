@@ -4,7 +4,7 @@
 
 Steps:
 + Select **Use this template** > **Create a new repository**. This menu is in the top right corner of this repository.
-+ Create and define your the project repository.
++ Edit `setup.py` and define your the project repository.
 + Edit the [README.md](README.md) file's **workflow status** badge with the name of your repository.
 + Create virtual environment
 
